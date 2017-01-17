@@ -1,0 +1,13 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch branch2
+# Changes to be committed:
+#	modified:   mcmthesis-demo.fdb_latexmk
+#	modified:   mcmthesis-demo.fls
+#	modified:   mcmthesis-demo.log
+#	modified:   mcmthesis-demo.pdf
+#	modified:   mcmthesis-demo.synctex.gz
+#	modified:   mcmthesis-demo.tex
+#
+
