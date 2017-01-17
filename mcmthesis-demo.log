@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.11)  17 JAN 2017 10:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.11)  17 JAN 2017 10:54
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -690,11 +690,11 @@ Package pdftex.def Info: ./figures/mcmthesis-aaa-eps-converted-to.pdf used on in
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] [5 <./figures/mcmthesis-aaa-eps-converted-to.pdf>] [6]
+[4] [5 <./figures/mcmthesis-aaa-eps-converted-to.pdf>] [6] [7]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 169.
  (d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-) [7]
+)
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 173.
 
@@ -719,14 +719,14 @@ Package rerunfilecheck Info: File `mcmthesis-demo.out' has not changed.
 Here is how much of TeX's memory you used:
  11319 strings out of 493013
  162812 string characters out of 6130541
- 419282 words of memory out of 5000000
+ 417397 words of memory out of 5000000
  14482 multiletter control sequences out of 15000+600000
  76820 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,52p,861b,1917s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/bera/fvsb8a.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><d:/Software/Document Edit/LaTeX/texlive/
 2016/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on mcmthesis-demo.pdf (9 pages, 248747 bytes).
+Output written on mcmthesis-demo.pdf (9 pages, 248779 bytes).
 PDF statistics:
  269 PDF objects out of 1000 (max. 8388607)
  235 compressed objects within 3 object streams

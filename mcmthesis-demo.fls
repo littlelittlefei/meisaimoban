@@ -1,4 +1,4 @@
-PWD E:/mcm/mcm/mcmthesis2
+PWD E:/mcm/mcm/meisaimoban
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf.cnf
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/web2c/texmf.cnf
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -334,8 +334,6 @@ INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/pa
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/courier/pcrr8t.tfm
-INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
-INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplb8t.tfm
 INPUT ./code/mcmthesis-matlab1.m
@@ -347,6 +345,8 @@ INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/co
 INPUT ./code/mcmthesis-sudoku.cpp
 INPUT ./code/mcmthesis-sudoku.cpp
 INPUT ./code/mcmthesis-sudoku.cpp
+INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
+INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/vf/adobe/courier/pcrr8t.vf
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
 INPUT d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/vf/adobe/palatino/pplb8t.vf

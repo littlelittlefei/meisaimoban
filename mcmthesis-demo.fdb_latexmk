@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1484620617 "mcmthesis-demo.tex" "mcmthesis-demo.pdf" "mcmthesis-demo" 1484620619
+["pdflatex"] 1484621665 "mcmthesis-demo.tex" "mcmthesis-demo.pdf" "mcmthesis-demo" 1484621668
   "code/mcmthesis-matlab1.m" 1484620203 210 85a5d87496a269d2df36a0b391613a70 ""
   "code/mcmthesis-sudoku.cpp" 1484620203 845 5a6682dd32c79c4b8b8ea784915eeae3 ""
   "d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1484122480 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -175,12 +175,12 @@
   "d:/Software/Document Edit/LaTeX/texlive/2016/texmf.cnf" 1484125492 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "figures/mcmthesis-aaa.eps" 1484620203 458067 0292347d89fcc11b2fd4cfd67307e029 ""
   "figures/mcmthesis-logo.pdf" 1484620203 3922 6dcb028e45fb9219b315d77d030f8f98 ""
-  "mcmthesis-demo.aux" 1484620619 2601 a6b32843abfcae14226b6bf67e503553 ""
-  "mcmthesis-demo.out" 1484620619 787 487780ca491c476c0badf782df76ad9e ""
-  "mcmthesis-demo.tex" 1484620609 5377 ca711756a239d8cc01a1c720de8f7c90 ""
+  "mcmthesis-demo.aux" 1484621668 2601 5adcab77e55335dac36a4694623c6a1c ""
+  "mcmthesis-demo.out" 1484621668 787 487780ca491c476c0badf782df76ad9e ""
+  "mcmthesis-demo.tex" 1484621659 5381 ea86320c0b177d30567be5228283a676 ""
   "mcmthesis.cls" 1484620203 7215 5d44378a4aec3387a5f01bb414b9b278 ""
   (generated)
   "mcmthesis-demo.pdf"
-  "mcmthesis-demo.aux"
-  "mcmthesis-demo.log"
   "mcmthesis-demo.out"
+  "mcmthesis-demo.log"
+  "mcmthesis-demo.aux"
